@@ -1,0 +1,17 @@
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.csproj.AssemblyReference.cache
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.csproj.GenerateResource.cache
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.AssemblyInfoInputs.cache
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.AssemblyInfo.cs
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\StrategyChess.exe
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\StrategyChess.deps.json
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\StrategyChess.runtimeconfig.json
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\StrategyChess.dll
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\StrategyChess.pdb
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.Form1.resources
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.dll
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\StrategyChess.dll
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.pdb
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\StrategyChess.genruntimeconfig.cache
+C:\Users\kiril\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\StrategyChess.dll
